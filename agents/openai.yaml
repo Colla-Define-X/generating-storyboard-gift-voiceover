@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜图生成口播字幕"
+  short_description: "依据文创礼赠产品分镜图，生成逐镜对应、适合 AI 数字人朗读的口播字幕"
+  default_prompt: "请用 $generating-storyboard-gift-voiceover，根据我上传的分镜图，生成与镜头顺序和时长匹配的视频口播字幕，并提供可直接交给 AI 数字人朗读的纯文本稿。"
